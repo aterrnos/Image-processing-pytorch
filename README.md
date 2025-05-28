@@ -1,1 +1,1 @@
-you must hate yourself to do this. 
+denoise a "noisy" or "blurry" image
